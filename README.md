@@ -5,6 +5,8 @@ This is my first test project built with Oracle APEX.
 I followed a tutorial from the official **Oracle APEX YouTube channel** to create it.  
 It was a great way to explore APEX features and page design.
 
+Link: https://www.youtube-nocookie.com/embed/Ux2eISE9cSQ
+
 ## Deutsch (German)
 Dies ist mein erstes Testprojekt mit Oracle APEX.  
 Ich habe ein Tutorial vom offiziellen **Oracle APEX YouTube-Kanal** verwendet.  
